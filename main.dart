@@ -11,7 +11,7 @@ void main() {
         ),
         body: Center(
           child: Image(
-            image: NetworkImage('https://p1.hiclipart.com/preview/1001/911/791/s-008-aesthetic-png-clipart.jpg'),
+            image: NetworkImage('https://Example.jpg'),
           ),
         ),
       ),
